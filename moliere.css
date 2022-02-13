@@ -17,11 +17,9 @@
     color: black;    
 }
 
-.stagedirection.hover{
+.stagedirection:hover{
 
-    font-family: 'Times New Roman', Times, serif;
     background-color: blueviolet;
-    font-size: 15px;
     color: brown;
 }
 
