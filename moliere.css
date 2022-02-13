@@ -1,7 +1,7 @@
 .speech{
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
-    color: yellowgreen;
+    color: black;
 }
 
 .stagedirection{
@@ -14,7 +14,7 @@
 .name{
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
-    color: red;    
+    color: black;    
 }
 
 .stagedirection.hover{
