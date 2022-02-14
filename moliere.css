@@ -53,6 +53,15 @@ th{
     tr:nth-child(even){
         background-color:lightblue
     }
-    
+
+    .name:hover{
+
+        text-shadow:2px 2px 5px red;
+        color:teal;
+        filter:pink(3px);
+        border:double 2px black;
+
+    }
+
 
 
